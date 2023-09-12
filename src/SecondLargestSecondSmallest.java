@@ -1,5 +1,10 @@
 import java.util.Arrays;
 
+/*
+https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=1
+ */
+
+
 public class SecondLargestSecondSmallest {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5};
