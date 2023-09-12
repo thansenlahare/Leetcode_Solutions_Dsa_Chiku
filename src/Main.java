@@ -3,6 +3,7 @@ public class Main {
         int[] array = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         System.out.println(getSecondOrderElements(array.length, array));
     }
+    // this code will find the second largets and second smallest
     public static int[] getSecondOrderElements(int n, int[] a) {
         int[] result = new int[2];
         int largest = a[0];
